@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.csproj", "{AF55C8CA-5D5E-473E-802B-18ECC8438E42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionsAndCasting", "ConversionsAndCasting\ConversionsAndCasting.csproj", "{AFA020CE-A79D-4616-BFBA-B587C4D7920E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AF55C8CA-5D5E-473E-802B-18ECC8438E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF55C8CA-5D5E-473E-802B-18ECC8438E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF55C8CA-5D5E-473E-802B-18ECC8438E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA020CE-A79D-4616-BFBA-B587C4D7920E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA020CE-A79D-4616-BFBA-B587C4D7920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA020CE-A79D-4616-BFBA-B587C4D7920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA020CE-A79D-4616-BFBA-B587C4D7920E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
