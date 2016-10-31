@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing and Unboxing", "Boxi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexes", "Indexes\Indexes.csproj", "{A094B486-15A8-4586-AECD-07B485EF0FC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension Methods", "Extension Methods\Extension Methods.csproj", "{73824967-E068-413C-9800-39AFC6301032}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A094B486-15A8-4586-AECD-07B485EF0FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A094B486-15A8-4586-AECD-07B485EF0FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A094B486-15A8-4586-AECD-07B485EF0FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73824967-E068-413C-9800-39AFC6301032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73824967-E068-413C-9800-39AFC6301032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73824967-E068-413C-9800-39AFC6301032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73824967-E068-413C-9800-39AFC6301032}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
