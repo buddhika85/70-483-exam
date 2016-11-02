@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexes", "Indexes\Indexes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension Methods", "Extension Methods\Extension Methods.csproj", "{73824967-E068-413C-9800-39AFC6301032}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explicit Interface Implementation", "Explicit Interface Implementation\Explicit Interface Implementation.csproj", "{58A8BC64-08F5-4CED-8368-133480FA658E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I Enumerable", "I Enumerable\I Enumerable.csproj", "{EC2066AF-E7BB-4F41-BB42-65AB2EE96B49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{73824967-E068-413C-9800-39AFC6301032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73824967-E068-413C-9800-39AFC6301032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73824967-E068-413C-9800-39AFC6301032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A8BC64-08F5-4CED-8368-133480FA658E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A8BC64-08F5-4CED-8368-133480FA658E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A8BC64-08F5-4CED-8368-133480FA658E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A8BC64-08F5-4CED-8368-133480FA658E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2066AF-E7BB-4F41-BB42-65AB2EE96B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2066AF-E7BB-4F41-BB42-65AB2EE96B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2066AF-E7BB-4F41-BB42-65AB2EE96B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2066AF-E7BB-4F41-BB42-65AB2EE96B49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
