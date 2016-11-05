@@ -39,6 +39,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events in .NET", "Events in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events in .NET more", "Events in .NET more\Events in .NET more.csproj", "{83D7AD4A-15EA-40BC-A0E4-478D5DDF014F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading and Async", "Multithreading and Async\Multithreading and Async.csproj", "{2C2F0B94-02B9-44DA-A31F-A1C57466F35F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutithreading with Thread Pool", "Mutithreading with Thread Pool\Mutithreading with Thread Pool.csproj", "{EDCF9EE7-AFAB-4E80-8D77-D95B417F9A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading with Async and Await", "Multithreading with Async and Await\Multithreading with Async and Await.csproj", "{4F7D3FA3-0B06-407F-AACC-39E6933D4874}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +123,18 @@ Global
 		{83D7AD4A-15EA-40BC-A0E4-478D5DDF014F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83D7AD4A-15EA-40BC-A0E4-478D5DDF014F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83D7AD4A-15EA-40BC-A0E4-478D5DDF014F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2F0B94-02B9-44DA-A31F-A1C57466F35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2F0B94-02B9-44DA-A31F-A1C57466F35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2F0B94-02B9-44DA-A31F-A1C57466F35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2F0B94-02B9-44DA-A31F-A1C57466F35F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCF9EE7-AFAB-4E80-8D77-D95B417F9A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCF9EE7-AFAB-4E80-8D77-D95B417F9A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCF9EE7-AFAB-4E80-8D77-D95B417F9A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCF9EE7-AFAB-4E80-8D77-D95B417F9A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7D3FA3-0B06-407F-AACC-39E6933D4874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7D3FA3-0B06-407F-AACC-39E6933D4874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7D3FA3-0B06-407F-AACC-39E6933D4874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7D3FA3-0B06-407F-AACC-39E6933D4874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
