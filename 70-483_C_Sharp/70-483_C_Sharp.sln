@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutithreading with Thread P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading with Async and Await", "Multithreading with Async and Await\Multithreading with Async and Await.csproj", "{4F7D3FA3-0B06-407F-AACC-39E6933D4874}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\Encryption.csproj", "{ECA15C38-BC6A-4FBC-8C34-19B67752D5EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashing with Salts", "Hashing with Salts\Hashing with Salts.csproj", "{5776318E-AF58-46DC-99B5-6AB981607683}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{4F7D3FA3-0B06-407F-AACC-39E6933D4874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F7D3FA3-0B06-407F-AACC-39E6933D4874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F7D3FA3-0B06-407F-AACC-39E6933D4874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA15C38-BC6A-4FBC-8C34-19B67752D5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA15C38-BC6A-4FBC-8C34-19B67752D5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA15C38-BC6A-4FBC-8C34-19B67752D5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA15C38-BC6A-4FBC-8C34-19B67752D5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5776318E-AF58-46DC-99B5-6AB981607683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5776318E-AF58-46DC-99B5-6AB981607683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5776318E-AF58-46DC-99B5-6AB981607683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5776318E-AF58-46DC-99B5-6AB981607683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
